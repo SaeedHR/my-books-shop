@@ -1,4 +1,4 @@
-<p><img src="https://www.istockphoto.com/photos/outdoor-bookstore" /></p>
+<p><img src="https://media.istockphoto.com/photos/bookstore-shop-exterior-with-books-and-textbooks-in-showcase-picture-id1222563369?k=20&m=1222563369&s=612x612&w=0&h=kQs77JZl26jipbHmW2STOFh5FWbhDWex-aLB5sD9LSo=" /></p>
 
 # Getting Started with Create React App
 
